@@ -1,6 +1,6 @@
 name = "workers-airtable-form"
 compatibility_date = "2026-10-06"
-type = "javascript"
+#type = "javascript"
 
 account_id = "effd15f36d108daa59cf98addd889225"
 workers_dev = true
